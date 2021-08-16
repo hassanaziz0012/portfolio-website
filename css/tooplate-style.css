@@ -12,6 +12,10 @@ body {
 	padding-top: 70px;
 }
 
+i.fa-envelope {
+	color: black;
+}
+
 .full-screen {
 	padding: 8rem 0;
 }
@@ -322,6 +326,8 @@ strong {
 .dark-mode h4,
 .dark-mode h5,
 .dark-mode h6,
+.dark-mode p,
+.dark-mode i.fa-envelope,
 .dark-mode .color-mode {
 	color: #ffffff;
 }
